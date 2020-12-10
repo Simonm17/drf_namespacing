@@ -1,3 +1,7 @@
+"""
+    Django demo showcasing how to use namespaces when using Django REST Frameworks' HyperlinkedModelSerializer
+"""
+
 from pathlib import Path
 
 
